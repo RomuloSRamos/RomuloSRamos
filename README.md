@@ -1,4 +1,11 @@
-### Hi there 👋
+# Romulo S Ramos
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Romulo%20S.%20Ramos-0077B5?style=flat-square&labelColor=0077B5&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-s-ramos/)](https://www.linkedin.com/in/romulo-s-ramos/)
+[![Outlook Badge](https://img.shields.io/badge/-rsromulo@msn.com-0078D4?style=flat-square&labelColor=0078D4&logo=Microsoft%20Outlook&logoColor=white&link=mailto:rsromulo@msn.com)](mailto:rsromulo@msn.com)
+[![Twitter Badge](https://img.shields.io/badge/-@RSromuloS-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/RSromuloS)](https://twitter.com/RSromuloS)
+[![Mediun Badge](https://img.shields.io/badge/-@rsromel-12100E?style=flat-square&labelColor=12100E&logo=Medium&logoColor=white&link=https://medium.com/@rsromel)](https://medium.com/@rsromel)
+
 
 <!--
 **RomuloSRamos/RomuloSRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
