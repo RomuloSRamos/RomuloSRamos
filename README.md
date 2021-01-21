@@ -1,4 +1,4 @@
-# Romulo S Ramos
+# Romulo S. Ramos
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Romulo%20S.%20Ramos-0077B5?style=flat-square&labelColor=0077B5&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romulo-s-ramos/)](https://www.linkedin.com/in/romulo-s-ramos/)
