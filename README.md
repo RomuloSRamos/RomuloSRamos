@@ -16,8 +16,9 @@
 
 - 💬 Ask me about **Oracle Database, PL/Sql, Totvs-RM, JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **I'm a terrible drummer, so I switched to French horn. and now I'm a terrible horn player.**
-     **But I don't stop studying and one day I'll be playing in an orchestra.**
+- ⚡ Fun fact **I'm a terrible drummer, so I switched to French horn. and now I'm a terrible horn player too.**
+
+**But I keep learning and one day I'll be playing in an orchestra.**
 
 <br><br>
 
@@ -60,7 +61,7 @@
 <a href="https://codepen.io/RomuloSRamos" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/RomuloSRamos" target="_blank">
+<a href="https://twitter.com/RSromuloS" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/romulo-s-ramos" target="_blank">
