@@ -65,7 +65,7 @@ I'm a terrible drummer, so I switched to French horn. and now I'm also a terribl
 <a href="https://twitter.com/RomuloSRamos" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/romulo-s-ramos" target="_blank">
+<a href="https://linkedin.com/in/RomuloSRamos" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/RomuloSRamos" target="_blank">
