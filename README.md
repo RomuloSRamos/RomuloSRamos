@@ -15,10 +15,10 @@
 <!-- ▶️ I regularly post videos on [youtube.com/....](https://youtube.com/....)-->
 
 - 💬 Ask me about **Oracle Database, PL/Sql, Totvs-RM, JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **I also study music.
+<!--
+- ⚡ Fun fact **I also study music.**
 I'm a terrible drummer, so I switched to French horn. and now I'm also a terrible horn player. But I'm still learning and one day I'll be playing in the church orchestra.**
-
+-->
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -50,8 +50,8 @@ I'm a terrible drummer, so I switched to French horn. and now I'm also a terribl
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RomuloSRamos&show_icons=true&theme=vision-friendly-dark" alt="RomuloSRamos's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloSRamos&layout=compact&theme=vision-friendly-dark" alt="RomuloSRamos's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RomuloSRamos&show_icons=true&theme=vision-friendly-dark" alt="RomuloSRamos's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloSRamos&layout=compact&theme=vision-friendly-dark" alt="RomuloSRamos's most languages"/>
 </p>
 
 <br><br>
@@ -59,21 +59,21 @@ I'm a terrible drummer, so I switched to French horn. and now I'm also a terribl
 ## &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/RomuloSRamos" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/RomuloSRamos" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/RomuloSRamos" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/RomuloSRamos" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.youtube.com/user/RomuloSRamos" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+  <a href="https://linkedin.com/in/RomuloSRamos" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/RomuloSRamos" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  <a href="https://codepen.io/RomuloSRamos" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=codepen" alt="codepen"/>
+  </a>
+  <a href="https://www.youtube.com/user/RomuloSRamos" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=youtube" alt="youtube"/>
+  </a>
+  <a href="https://twitter.com/RomuloSRamos" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-RomuloSRamos-05122A?style=flat&logo=twitter" alt="twitter"/>
+  </a>
 </p>
 
 <!--
