@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Romulo Ramos</h1>
+<h1 align="left">Hi, I'm Romulo Ramos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RomuloSRamos&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 IT Analyst & Oracle database developer & learning web development with a focus on DevOps
@@ -44,15 +44,6 @@ I'm a terrible drummer, so I switched to French horn. and now I'm also a terribl
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=RomuloSRamos&show_icons=true&theme=vision-friendly-dark" alt="RomuloSRamos's stats"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloSRamos&layout=compact&theme=vision-friendly-dark" alt="RomuloSRamos's most languages"/>
-</p>
 
 <br><br>
 
